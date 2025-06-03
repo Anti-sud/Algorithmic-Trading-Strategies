@@ -30,7 +30,6 @@ This repository features a collection of algorithmic trading strategies implemen
 **Summary**: Executive Summary: Swing Trading Strategy Analysis  
 - Focuses on **capturing medium-term price swings**.
 - Combines trend indicators and signal filters.
-- Suitable for holding positions over multiple days.
 
 ---
 
